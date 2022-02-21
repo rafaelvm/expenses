@@ -41,8 +41,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Run backend
 
-### yarn install
-### yarn start
+### `yarn install`
+### `yarn start`
 
 ## Learn More
 
